@@ -2016,6 +2016,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Python Flask Tutorial](https://www.tutorialspoint.com/flask/) - Tutorials Point (HTML, PDF)
 * [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg (0.9)
 
+#### JavaScript
+ *[JavaScript](https://books.goalkicker.com/JavaScriptBook/) - GoalKicker (PDF) 
+
 
 #### Kivy
 
@@ -2381,6 +2384,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The Best of SQLServerCentral.com Vol 7](https://www.red-gate.com/library/the-best-of-sqlservercentral-com-vol-7) (PDF)
 * [The Redgate Guide to SQL Server Team-based Development](https://www.red-gate.com/library/the-redgate-guide-to-sql-server-team-based-development) - Phil Factor, Grant Fritchey, Alex Kuznetsov, Mladen Prajdić (PDF)
 * [Troubleshooting SQL Server: A Guide for the Accidental DBA](http://www.red-gate.com/community/books/accidental-dba) - Jonathan Kehayias, Ted Krueger (PDF)
+* [MYSQL](https://books.goalkicker.com/MySQLBook/) - GoalKicker (PDF)
 
 
 ### Standard ML
